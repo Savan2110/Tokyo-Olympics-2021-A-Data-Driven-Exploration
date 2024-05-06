@@ -8,9 +8,8 @@ This project delves into the data from the 2021 Tokyo Olympics, aiming to uncove
 •	Explore historical Olympic trends, if the data allows.<br>
 
 <h3>Architecture:<h3>
-    ![Capture](https://github.com/Savan2110/Tokyo-Olympics-2021-A-Data-Driven-Exploration/assets/51812887/2fbb36c8-ae08-4694-935f-b2f95fe678d6)
-![Architecture](https://github.com/Savan2110/Tokyo-Olympics-2021-A-Data-Driven-Exploration/assets/51812887/f2dfb299-1e58-48cb-abd2-ad736724ef40)
 
+    
 <h3>Data Source:</h3>
 The project utilizes the comprehensive dataset publicly available on https://github.com/kaoutharElbakouri/2021-Olympics-in-Tokyo-Data. This dataset encompasses a wealth of information about athletes, events, medals, and historical contexts.
 
@@ -29,21 +28,21 @@ The project utilizes the comprehensive dataset publicly available on https://git
 <h3>Data Analysis</h3>
 <h5>Research Questions:</h5>
    • formulated specific questions to uncover trends, like:<br>
-      o	Participant numbers by country and sport.<br>
-      o	Gender distribution in various disciplines.<br>
-      o	Medal distribution across countries.<br>
-      o	Relationships between participant numbers, medals won, and national factors (population, GDP).
+   <p>   o	Participant numbers by country and sport.<br>
+   <p>   o	Gender distribution in various disciplines.<br>
+   <p>   o	Medal distribution across countries.<br>
+   <p>   o	Relationships between participant numbers, medals won, and national factors (population, GDP).
 
 <h5>Analysis Techniques & Insights:</h5>
     • employed Power BI for data visualization and analysis.<br>
     • Key findings included: <br>
-       o	USA, Japan, and Australia had the most participants.<br>
-       o	Athletics, Swimming, and Football had the highest participation.<br>
-       o	Most sports had a gender imbalance, with some exclusively female.<br>
-       o	USA, China, and Russia led in medal count.<br>
-       o	A strong correlation existed between GDP and medals won, suggesting resource investment's impact.<br>
-       o	A high correlation between coaches and medals suggested their positive influence.<br>
-       o	Participant numbers and medals showed a weaker correlation.<br>
+   <p>    o	USA, Japan, and Australia had the most participants.<br>
+   <p>    o	Athletics, Swimming, and Football had the highest participation.<br>
+   <p>    o	Most sports had a gender imbalance, with some exclusively female.<br>
+   <p>    o	USA, China, and Russia led in medal count.<br>
+   <p>    o	A strong correlation existed between GDP and medals won, suggesting resource investment's impact.<br>
+   <p>    o	A high correlation between coaches and medals suggested their positive influence.<br>
+   <p>    o	Participant numbers and medals showed a weaker correlation.<br>
 
 <h3>Conclusion</h3>
 This project successfully explored the Tokyo Olympics 2021 data, revealing valuable insights into athlete performance, historical trends, and the broader Olympic narrative. While limitations like data availability or specific analysis techniques might exist, this project paves the way for further exploration and deeper understanding of the Olympic phenomenon.
