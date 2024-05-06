@@ -26,16 +26,16 @@ The project utilizes the comprehensive dataset publicly available on https://git
 5.	Result Interpretation: The findings and insights extracted from the analysis are meticulously interpreted and documented.<br>
 
 <h3>Data Analysis</h3>
-<h5>Research Questions:</h5>
-   • formulated specific questions to uncover trends, like:<br>
+<h4>Research Questions:</h4>
+ <p>  • formulated specific questions to uncover trends, like:<br>
    <p>   o	Participant numbers by country and sport.<br>
    <p>   o	Gender distribution in various disciplines.<br>
    <p>   o	Medal distribution across countries.<br>
    <p>   o	Relationships between participant numbers, medals won, and national factors (population, GDP).
 
-<h5>Analysis Techniques & Insights:</h5>
-    • employed Power BI for data visualization and analysis.<br>
-    • Key findings included: <br>
+<h4>Analysis Techniques & Insights:</h4>
+   <p> • employed Power BI for data visualization and analysis.<br>
+  <p>  • Key findings included: <br>
    <p>    o	USA, Japan, and Australia had the most participants.<br>
    <p>    o	Athletics, Swimming, and Football had the highest participation.<br>
    <p>    o	Most sports had a gender imbalance, with some exclusively female.<br>
