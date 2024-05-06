@@ -8,8 +8,9 @@ This project delves into the data from the 2021 Tokyo Olympics, aiming to uncove
 •	Explore historical Olympic trends, if the data allows.<br>
 
 <h3>Architecture:<h3>
-    ![image](https://github.com/Savan2110/Tokyo-Olympics-2021-A-Data-Driven-Exploration/assets/51812887/1204c569-d486-47f1-b140-f24930e3dfff)
-  
+    ![Architecture](https://github.com/Savan2110/Tokyo-Olympics-2021-A-Data-Driven-Exploration/assets/51812887/f8456fd0-b84c-4784-bcdd-eca807bc29ea)
+
+    
 <h3>Data Source:</h3>
 The project utilizes the comprehensive dataset publicly available on https://github.com/kaoutharElbakouri/2021-Olympics-in-Tokyo-Data. This dataset encompasses a wealth of information about athletes, events, medals, and historical contexts.
 
