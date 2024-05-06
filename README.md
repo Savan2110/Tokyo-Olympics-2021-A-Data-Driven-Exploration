@@ -13,17 +13,17 @@ This project delves into the data from the 2021 Tokyo Olympics, aiming to uncove
 <h3>Data Source:</h3>
 The project utilizes the comprehensive dataset publicly available on https://github.com/kaoutharElbakouri/2021-Olympics-in-Tokyo-Data. This dataset encompasses a wealth of information about athletes, events, medals, and historical contexts.
 
-<h3>Azure Services</h3>:
+<h3>Azure Services:</h3>
 1)	Azure Data Factory (ADF): Orchestrates the entire data flow, potentially automating data acquisition, preprocessing, and loading stages.<br>
 2)	Azure Databricks (Optional): Performs complex data transformations or enrichment if required by your analysis.<br>
 3)	Microsoft Power BI: Provides interactive data visualization and exploration capabilities for deeper insights.<br>
 
 <h3>Data Flow:</h3>
-1.	Data Acquisition: The Olympic dataset is retrieved from the provided GitHub repository.
-2.	Data Preprocessing: The data undergoes cleaning and preparation steps to ensure consistency and address missing values or formatting issues.
-3.	Data Exploration: Exploratory data analysis techniques are applied to understand the data structure, identify patterns, and formulate specific research questions.
-4.	Data Analysis: Based on the research questions, specific methods are employed (e.g., statistical analysis, data visualization).
-5.	Result Interpretation: The findings and insights extracted from the analysis are meticulously interpreted and documented.
+1.	Data Acquisition: The Olympic dataset is retrieved from the provided GitHub repository.<br>
+2.	Data Preprocessing: The data undergoes cleaning and preparation steps to ensure consistency and address missing values or formatting issues.<br>
+3.	Data Exploration: Exploratory data analysis techniques are applied to understand the data structure, identify patterns, and formulate specific research questions.<br>
+4.	Data Analysis: Based on the research questions, specific methods are employed (e.g., statistical analysis, data visualization).<br>
+5.	Result Interpretation: The findings and insights extracted from the analysis are meticulously interpreted and documented.<br>
 
 <h3>Data Analysis</h3>
 <h5>Research Questions:</h5>
