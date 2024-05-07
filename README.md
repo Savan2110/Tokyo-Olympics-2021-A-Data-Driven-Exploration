@@ -6,7 +6,10 @@ This project delves into the data from the 2021 Tokyo Olympics, aiming to uncove
 •	Analyze the official Tokyo Olympics 2021 dataset to identify patterns and trends.<br>
 •	Gain a deeper understanding of athlete performance across various sports and disciplines.<br>
 •	Explore historical Olympic trends, if the data allows.<br>
-    
+
+
+<img src="https://raw.githubusercontent.com/tknishh/olympic-data-analysis-azure/master/images/arch.png" alt="Italian Trulli">
+
 <h3>Data Source:</h3>
 The project utilizes the comprehensive dataset publicly available on https://github.com/kaoutharElbakouri/2021-Olympics-in-Tokyo-Data. This dataset encompasses a wealth of information about athletes, events, medals, and historical contexts.
 
