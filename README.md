@@ -27,22 +27,20 @@ The project utilizes the comprehensive dataset publicly available on https://git
 
 <h3>Data Analysis</h3>
 <h4>Research Questions:</h4>
- <p>  • formulated specific questions to uncover trends, like:<br>
-      o	Participant numbers by country and sport.<br>
-      o	Gender distribution in various disciplines.<br>
-      o	Medal distribution across countries.<br>
-      o	Relationships between participant numbers, medals won, and national factors (population, GDP).
+
+1. How does athlete performance vary across different countries and sports?<br>
+2. Is there a gender disparity in participation and medal distribution across sports?<br>
+3. How do medal counts vary across countries? Are there historical trends (if data permits)?<br>
+4. What factors potentially influence a nation's success in the Olympics (e.g., GDP, population)?<br>
+5. Which sports have the highest number of participants? Are there any trends in sports participation over time?<br>
 
 <h4>Analysis Techniques & Insights:</h4>
    <p> • employed Power BI for data visualization and analysis.<br>
-  <p>  • Key findings included: <br>
+   <p> • Key findings included: <br>
        o	USA, Japan, and Australia had the most participants.<br>
        o	Athletics, Swimming, and Football had the highest participation.<br>
-       o	Most sports had a gender imbalance, with some exclusively female.<br>
-       o	USA, China, and Russia led in medal count.<br>
        o	A strong correlation existed between GDP and medals won, suggesting resource investment's impact.<br>
        o	A high correlation between coaches and medals suggested their positive influence.<br>
-       o	Participant numbers and medals showed a weaker correlation.<br>
-
+       
 <h3>Conclusion</h3>
 This project successfully explored the Tokyo Olympics 2021 data, revealing valuable insights into athlete performance, historical trends, and the broader Olympic narrative. While limitations like data availability or specific analysis techniques might exist, this project paves the way for further exploration and deeper understanding of the Olympic phenomenon.
