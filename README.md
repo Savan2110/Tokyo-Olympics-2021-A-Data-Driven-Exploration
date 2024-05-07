@@ -41,6 +41,10 @@ The project utilizes the comprehensive dataset publicly available on https://git
        o	Athletics, Swimming, and Football had the highest participation.<br>
        o	A strong correlation existed between GDP and medals won, suggesting resource investment's impact.<br>
        o	A high correlation between coaches and medals suggested their positive influence.<br>
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*IwtVr2BoQKqBk_QDNVJLKg.png" alt="Italian Trulli">
+
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*XZCK0d5ObJpN2rc4CPMZVg.png" alt="Italian Trulli">
        
 <h3>Conclusion</h3>
 This project successfully explored the Tokyo Olympics 2021 data, revealing valuable insights into athlete performance, historical trends, and the broader Olympic narrative. While limitations like data availability or specific analysis techniques might exist, this project paves the way for further exploration and deeper understanding of the Olympic phenomenon.
