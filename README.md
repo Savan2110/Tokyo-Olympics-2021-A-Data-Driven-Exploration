@@ -7,7 +7,7 @@ This project delves into the data from the 2021 Tokyo Olympics, aiming to uncove
 •	Gain a deeper understanding of athlete performance across various sports and disciplines.<br>
 •	Explore historical Olympic trends, if the data allows.<br>
 
-
+<h3>Architecture:</h3>
 <img src="https://raw.githubusercontent.com/tknishh/olympic-data-analysis-azure/master/images/arch.png" alt="Italian Trulli">
 
 <h3>Data Source:</h3>
